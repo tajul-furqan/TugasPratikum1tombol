@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TugasPraktikum1tombol</string>
+
+    <string name="bIngg">How are you? By Tajul Furqan</string>
+    <string name="bIndo">Apa kabar kamu? Dari Tajul Furqan</string>
+    <string name="tmbl_inggris">Translate</string>
+    <string name="tmbl_indo">Terjemahan</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
